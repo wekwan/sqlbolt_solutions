@@ -1,2 +1,2 @@
 # sqlbolt_solutions
-Solutions to questions on the interactive tutorial at https://sqlbolt.com/.
+In an attempt to get better at SQL, I solved the questions on https://sqlbolt.com/. This repository contains my solutions. Up to date as of 10/31/2020. 
